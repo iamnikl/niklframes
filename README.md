@@ -166,4 +166,5 @@ You can specify the “fileExtention“ property by changing the default value o
 - .nik
 - .nikl
 - .txt
+  
 But you are free to chose what file extension you want to use for your components.
