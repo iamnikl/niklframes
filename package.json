@@ -1,0 +1,14 @@
+{
+  "name": "nikltools",
+  "version": "1.0.4",
+  "description": "Some simple tools for faster coding",
+  "main": "main.js",
+  "scripts": {
+    "template": "git clone https://github.com/iamnikl/nikltools && cd nikltools && echo \"Powered by NiklFrame - NiklTools\" && exit 1"
+  },
+  "author": "Niklas P.",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
